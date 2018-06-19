@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <item
+        android:id="@+id/cool_fragment"
+        android:title="Fragmento legal"
+        />
+    <item
+        android:id="@+id/black_fragment"
+        android:title="Fragmento preto"
+        />
+    <item
+        android:id="@+id/lost_fragment"
+        android:title="Fragmento perdido"/>
 </menu>
